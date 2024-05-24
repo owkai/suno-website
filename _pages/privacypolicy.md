@@ -6,88 +6,75 @@ include_in_header: false
 
 # Privacy Policy
 
-This privacy policy is provided by  **RC report** **.** We are committed to protect your privacy. You can learn from this privacy policy that how we may collect, use, share your information when you use the Software and Services. And regarding your information, we declare the rights and options available to you .If you do not agree to the terms and conditions in our privacy policy, you can stop to use the Software & Services.
+Hangzhou Xinglu Network Information Technology Co., Ltd (“we”) has developed our products and services.
+This privacy policy explains how we collect, use and share data through our products and services and we refer to these together as the “Apps”.
+We reserve the right to and may change this Privacy Policy from time to time. If we make any material changes, we will notify you through the Apps, or by presenting you with a new version of this Privacy Policy for you to accept, if we, for example, add new processing activities or collect some additional Personal Data from you. Please also periodically check back for updates. You can see the last updated date for this Privacy Policy at the bottom of the policy.
+We provide you with this Privacy Policy to make our users aware of the steps we take to ensure the security of their data when utilizing the Apps. This policy describes the types of information we collect when you use the Apps, how we use and protect that information, how long we retain it, and with whom we share it. It also explains what your rights and options are as they pertain to privacy. By using the Apps, you consent to our collection and use of your information as described in this Privacy Policy.
 
-We regularly examine and update the privacy policy, so you can check our latest privacy policy in time.
+1. Your personal data
+When you use our Apps, you may, in the process, give us data directly, from third parties, or through the Apps themselves (including through your interaction with the Apps) and we collect these data.
+These data are, for example:
+Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our Apps you visited.
+Information about your mobile device such as model operating system, identifier and similar information.
+Other information that helps us in providing and servicing the Apps.
+If you contact our customer support, then we may also receive information from you as part of that contact. Oftentimes this is your name, email and information about your device.
+When you utilize one of the Apps, our server automatically records certain information, which is sent by your mobile device and stored in log files. This includes your unique mobile device identifier and similar data. We use this information for statistical and other internal business purposes.
 
-## **Information We Collect and Use**
+2. Ways that we process your data
+To manage and develop our Apps, we need information from you, which includes personal information. The purposes of processing this personal data includes:
+enabling our support team to contact you regarding support requests
+sending you push internal notifications. If you do not want to receive these notifications, you can manage your preferences either through your device or Apps settings.
+analyzing, operating, maintaining and improving the Apps and marketing activities
+optimizing user experience
+adding new features and services to the Apps
+responding to your comments, questions and requests and providing customer service.
+Analytics are important to help us manage, protect and provide the Apps by obtaining information about how our users interact with our application. For example, we will receive the length of time spent in a session within the Apps, aggregate, non-specific geographic data, and crash data. Some Apps have the ability to send bug reports to us, which include the user’s email address and an optional description of the problem, along with some auto-generated technical information. These reports are strictly voluntary and are only sent when the user after reviewing them expressly grants permission. If you choose to send us this data, then we will use this information to ensure that the Apps continue to appeal to our users, as well as for auditing, research, and analysis in order to maintain, protect and improve the app; ensuring the technical functioning of the app, as well as developing new apps.
+We may combine your usage information with that of others in a way that does not identify you or any individual person and to use such anonymized and aggregate data for conducting analytical research, performance tracking and benchmarking.
 
-As you use the Software and Services, we may collect and store the following type of information:
+3. Your rights
+You are able to modify, correct and update your Personal Data in the Apps account settings. If you want to erase it from our analytics tools please write us at aisingapp@gmail.com
+You have a right to access your Personal Data you insert into the Apps and ask us about what kind of Personal Data we have about you. You can do this by using the app settings or by writing to aisingapp@gmail.com.
+If you are a user located in Switzerland, the EU or the EEA, you have certain rights with respect to your personal information.
+Right to access personal data
+Right to correct or update your personal data
+Right to restrict processing of your personal data
+Right to portability
+Right to withdraw consent if we have asked for it
+Right to file a complaint with a data protection authority
+If you want to submit a request regarding your rights, please contact customer support at support@owk.ai.
+Please keep in mind that in case of a vague access, erasure, objection request or any other request in exercise of the mentioned rights we may engage the individual in a dialogue so as to better understand the motivation for the request and to locate responsive information. In case this is impossible, we reserve the right to refuse granting your request.
+Following the provisions of GDPR we might also require you to prove your identity (for example, by requesting an ID or any other proof of identity) in order for you to invoke the mentioned rights, specifically if you exercise them in respect to special categories of Personal Data like data about health. This is made to ensure that no rights of third parties are violated by your request, and the rights described in this section are exercised by an actual Personal Data subject or an authorized person.
 
-### **1. Technical Information**
+4. Sharing your Personal Data and Information
+We will share your Personal Data and information with third parties only in the ways that are described in this Privacy Policy.
+We may disclose your Personal Data:
+· as required by law, such as to comply with a subpoena, or similar legal process.
+· when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+· if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+· to any other third party with your prior explicit consent to do so.
+We share the information we collect with third-party business partners who commit to comply with applicable laws concerning their usage of your Personal Data (for example, GDPR for the EU residents). Our third-party business partners may share your Personal Data with their own third-party business partners, granted they have appropriate data protection safeguards in place, and use the information either for themselves or on behalf of their own business partners to:
+· Operate and improve their services;
+· Provide you with advertisements and information for products and services in this app or on other apps or websites based on variables such as your location, and assess your level of engagement with them; and
+· Carry out other purposes that are disclosed to you and to which you consent.
+Depending on a service you use, we may share some of your Personal Data and information with third-party business partners who perform analytical and other tasks for us (in some jurisdictions such parties may qualify for being a ‘processor’ under applicable laws). These are the third-party services with whom, among others, we may share some of your Personal Data and information.
 
-For improving and customizing the Software and Services, we collect certain technical information of your device, including without limitation: the type, name and version of your operating system and other software, ISP (Internet Service Provider), GPS (Global Position System), IP (Internet Protocol) address, identifier for anonymous users, device configuration and identifiers, ID for advertiser (Identifier for Advertisers used in Android, etc.), and the setting of Software and Services.
+Our third-party partners are either EU-based or certified under EU-US Privacy Shield Framework that ensures that European data protection requirement are met. The privacy policy of these services can be found on their respective websites. Be informed that some third-party service providers may have their servers located in the United States.
 
-### **2. Usage and Social Networks Information**
+5. How We Protect Information
+We share your data if necessary for safety, security or legal compliance, and we also understand the importance of keeping your information safe and secure. We make reasonable efforts to protect your personal information and ensure the security of our systems.
 
-For providing you personalized content and services, including through the delivery of targeted interest-based advertisements from us or our partners; and improving the quality and operation of the Software and Services, we collect certain information regarding your use and interaction of your device, including the Software and Services and other software. Such as when and how you use the internet browser and internet search of applications, how you view and use the offerings and advertisements, and response to them. Your interactions on social networks through the Software and Services.
+6. How Long We Keep Information
+We retain personal for as long as necessary to fulfill a business purpose or comply with a legal request and within restrictions placed on us by law.
 
-### **3. Registration and Support Related Information （If Applicable）**
+7. Children under 4
+Our Apps are not intended for users under the age of 4, and we do not knowingly collect any personal information from children under 4. If we become aware that a person submitting information is under 16, we will attempt to delete the information as soon as possible.
 
-To notify you of the Software and Services updates, we may collect the Information that you provide when you register the software and services; such as your name, telephone numbers, e-mail address. To provide you with support and handle your complaints or feedback, we also collect the information if you communicate with us by e-mail or our support section, such as your name, e-mail address and any information submitted by you.
+8. Data Protection Officer
+To communicate with our Data Protection Officer, please email at support@owk.ai.
 
-When you use the Software and Services, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software and Services (the "User ID") and may be combined with any of the above information.
+9. Data Protection Officer
+Once you're a subscriber, you can manage your subscription from iTunes or on your iOS unit after purchasing it, and you'll also be able to cancel the auto-renewing subscription from there. Deleting the app does not cancel the subscription. You can, however, cancel a subscription even after you've deleted the app. The subscription will auto-renew 24 hours before the subscription period ends, with the same kind of subscription you already bought, to the same price.
+You may at any time terminate your membership, in which case your membership will still be valid for the subscription time you have already paid for. Our auto renewable In-app purchase subscriptions can only be cancelled using the App Store cancelation service. If you would like to contact Apple, please use this link https://support.apple.com/en-us/HT202039. Subscription fees can be found in the mobile applications. We reserve the right to change the subscription fees from time to time.
 
-We have no intention to collect any personal identification information（"PII"），except the registration and user support specified in the privacy policy, but there may be errors during the process of collection of data, which may contain PII. We will regularly check and update and timely identify and remove unwanted information of software and services collected unintentionally.
-
-## **Information We Share with Third Parties**
-
-We may share information with the third party under the following circumstances:
-
-\1. We are required by laws to disclose your information.
-
-\2. The team experiences the combination, acquisition, change of control power of other companies and other business transition.
-
-\3. We may share your information with certain third-party companies, such as advertising platform, and we will require such third parties to (i) guarantee the security of data, (ii) never use the data for the purpose other than providing services to us, and (iii) use the data only according to the privacy policy.
-
-In any case other than the above, without your prior consent，we will not share your personal identity information with the third party.
-
-## **Content of Third Parties**
-
-While using the software and services, certain third parties may enable you to provide content to them, in the form of gadgets, buttons, websites, advertising links etc. We consider it as third-party contents and services, which are subject to their privacy policies. We would not review and guarantee such third-party contents and services. Before you using or accessing such third-party contents and services, we recommend that you read the terms or conditions of their privacy policies. You shall be aware of using them and expressly relieve us from any and all liability arising from your use of such Third Party Content and Services.
-
-You can find out how the third parties use your data through the following links:
-
-Google:[ https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
-
-Facebook:[ https://www.facebook.com/about/privacy/update](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fprivacy%2Fupdate&sa=D&sntz=1&usg=AOvVaw2SaRzXUSIUboIG-j5M8VdG)
-
-Mopub:[ https://www.mopub.com/legal/privacy/](https://www.google.com/url?q=https%3A%2F%2Fwww.mopub.com%2Flegal%2Fprivacy%2F&sa=D&sntz=1&usg=AOvVaw1VHiiOcRxSxQ8BE6JGsoAs)
-
-AppsFlyer:[ https://www.appsflyer.com/privacy-policy/](https://www.google.com/url?q=https%3A%2F%2Fwww.appsflyer.com%2Fprivacy-policy%2F&sa=D&sntz=1&usg=AOvVaw19_EYxbtp4Lpp7cfyxzWh2)
-
-Google Analytics for Firebase:[ https://firebase.google.com/policies/analytics](https://firebase.google.com/policies/analytics)
-
-unity: http://unity3d.com/legal/privacy-policy
-
-Applovin:[ https://www.applovin.com/privacy-cn/](https://www.google.com/url?q=https%3A%2F%2Fwww.applovin.com%2Fprivacy-cn%2F&sa=D&sntz=1&usg=AOvVaw3B8xuovbWb-CP_JOz7tOgq)
-
-Vungle:[ https://vungle.com/privacy/](https://www.google.com/url?q=https%3A%2F%2Fvungle.com%2Fprivacy%2F&sa=D&sntz=1&usg=AOvVaw3YsW4n4gGqOsgGAE9bx8-H)
-
-## **Information Security and Data Rights**
-
-We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. We will only keep your personal information for as long as necessary and in any event in relation to personal information collected by us through the Software and Services. We will keep the information we collect in accordance with this Privacy Policy to achieve our business and/or operational purposes or to comply with legal requirements. We have implemented safeguard procedures to protect your information according to industrial standards, and we have restricted access to your information on the server, which is under encryption protection.
-
-Nevertheless, since the Internet is not a 100% secure environment, we cannot guarantee that the information you deliver to us will be 100% secure. Meanwhile, we establish data nodes all around the world to back up data to be under supervision by local laws.
-
-After you uninstall our software or stop using our services, we will delete all your data within three months. If you clear your data through internal software clicks, we will immediately delete your locally saved data and delete all your data on the server within one month.
-
-If you are the user of Europe, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided to them, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA. If you want to exercise this right, please contact us by email at: ca@hzchiyan.com
-
-## **International Transfers**
-
-If you are located in the EEA, personal information collected from you via the Software and Services, will be transferred to recipients in countries located outside the EEA which do not provide a similar or adequate level of protection to that provided by countries in the EEA. You hereby expressly consent to the transfer of your personal information to recipients, as described in this Privacy Policy, which are located outside the EEA.
-
-## **Children**
-
-We comply with the Children’s Online Privacy Protection Act (COPPA) and the General Data Protection Regulation (GDPR). We do not intend to collect any personal identification information of children under the age of sixteen (16), but there may be errors during the process of collection of data. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should promptly contact us and we would take action to ensure that such information is deleted from our server.
-
-## **Usage Conduct**
-
-We pay close attention to our intellectual property protection. All content, images, design, graphics, text, logos, buttons, interfaces, icons, audio and video clips, and the selection and arrangements of the Software and Services thereof are our exclusive property, and are protected by Berne Convention, international copyright laws and other applicable laws and regulations.
-
-You agree to use the Software and Services only for lawful purposes. We may, without incurring any liability to you, terminate access by you or suspend any access to all or part of the Software and Services, without notice, for any conduct by us, in our sole discretion, believes is in violation of any applicable law or this privacy policy, or is harmful to the interests of another user, a third-party, a sponsor, a licensor, a service provider, a merchant.
-
-## **Contact Us**
-
-If you have any question or comment about this Policy, you can contact us by email: ca@hzchiyan.com
+10. Questions
+If you have any additional questions or concerns about this Privacy Policy, please contact us at ca@hzchiyan.com.
