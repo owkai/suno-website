@@ -70,7 +70,7 @@ We retain personal for as long as necessary to fulfill a business purpose or com
 Our Apps are not intended for users under the age of 4, and we do not knowingly collect any personal information from children under 4. If we become aware that a person submitting information is under 16, we will attempt to delete the information as soon as possible.
 
 8. Data Protection Officer
-To communicate with our Data Protection Officer, please email at support@owk.ai.
+To communicate with our Data Protection Officer, please email at support@5starland.com.
 
 9. Data Protection Officer
 Once you're a subscriber, you can manage your subscription from iTunes or on your iOS unit after purchasing it, and you'll also be able to cancel the auto-renewing subscription from there. Deleting the app does not cancel the subscription. You can, however, cancel a subscription even after you've deleted the app. The subscription will auto-renew 24 hours before the subscription period ends, with the same kind of subscription you already bought, to the same price.
