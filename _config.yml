@@ -1,5 +1,5 @@
 #page title
-page_title                                : suno ai                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Composer AI                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6503041526                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/applogo.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : suno ai creator music maker            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Composer AI - Song Generator              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : song maker udio music making
+app_description                           : AI Transforms Lyrics to Music
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Hangzhou Xinglu Network Information Technology Co., Ltd.                                
 your_link                                 :                     
 your_city                                 :                                 
-email_address                             : ca@hzchiyan.com
+email_address                             : support@5starland.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 

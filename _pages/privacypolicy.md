@@ -77,4 +77,4 @@ Once you're a subscriber, you can manage your subscription from iTunes or on you
 You may at any time terminate your membership, in which case your membership will still be valid for the subscription time you have already paid for. Our auto renewable In-app purchase subscriptions can only be cancelled using the App Store cancelation service. If you would like to contact Apple, please use this link https://support.apple.com/en-us/HT202039. Subscription fees can be found in the mobile applications. We reserve the right to change the subscription fees from time to time.
 
 10. Questions
-If you have any additional questions or concerns about this Privacy Policy, please contact us at ca@hzchiyan.com.
+If you have any additional questions or concerns about this Privacy Policy, please contact us at support@5starland.com.
