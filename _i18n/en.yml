@@ -1,0 +1,19 @@
+global:
+  app_name: SongMaker - AI Music Generator
+  app_description: AI Transforms Lyrics to Music
+  app_price: Free
+  your_name: Hangzhou Xinglu Network Information Technology Co., Ltd.
+  email: support@5starland.com
+  page_title: SongMaker - AI Music Generator
+  header_title: AI Transforms Lyrics to Music
+
+pages:
+  privacy_policy:
+    title: Privacy Policy
+  support:
+    title: Support
+  terms:
+    title: Terms of Use
+
+home:
+  description: Transform your lyrics into music using AI. Turn your words into beautiful melodies.

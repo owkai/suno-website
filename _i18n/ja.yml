@@ -1,0 +1,19 @@
+global:
+  app_name: SongMaker - AI音楽ジェネレーター
+  app_description: AIで歌詞を音楽に変換
+  app_price: 無料
+  your_name: 杭州星路网络信息技术有限公司
+  email: support@5starland.com
+  page_title: SongMaker - AI音楽ジェネレーター
+  header_title: AIで歌詞を音楽に変換
+
+pages:
+  privacy_policy:
+    title: プライバシーポリシー
+  support:
+    title: サポート
+  terms:
+    title: 利用規約
+
+home:
+  description: AIを使って歌詞から音楽を生成します。あなたの言葉を美しいメロディーに変換しましょう。
