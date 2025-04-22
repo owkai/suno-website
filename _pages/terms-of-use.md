@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Use
 include_in_header: false
+i18n_namespace: terms
 ---
 
 # Terms of Use

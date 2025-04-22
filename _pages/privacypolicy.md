@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
+i18n_namespace: privacy_policy
 ---
 
 # Privacy Policy

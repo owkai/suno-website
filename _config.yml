@@ -1,6 +1,18 @@
 #page title
 page_title                                : Composer AI                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
+# Language settings
+languages: ["en", "ja"]
+default_lang: "en"
+exclude_from_localization: ["assets", "css", "_sass"]
+baseurl: ""
+url: ""
+base-url: ""
+keep_files: [".git", ".svn"]
+plugins:
+  - jekyll-multiple-languages-plugin
+
+
 # App Info
 ios_app_id                                : 6503041526                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
@@ -11,7 +23,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/applogo.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Composer AI - Song Generator              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : SongMaker - AI Music Generator            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : AI Transforms Lyrics to Music
 

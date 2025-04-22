@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 include_in_header: true
+i18n_namespace: support
 ---
 
 ## Contact us by email：

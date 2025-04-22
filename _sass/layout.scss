@@ -186,6 +186,17 @@ nav > ul {
 	display: flex;
 	list-style-type: none;
 
+	.language-switcher {
+		margin-left: 20px;
+		a {
+			padding: 4px 8px;
+			border-radius: 4px;
+			&.active {
+				background-color: #007AFF;
+				color: white;
+			}
+		}
+	}
 }
 
 nav > ul li {
