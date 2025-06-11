@@ -5,7 +5,7 @@ include_in_header: false
 i18n_namespace: terms
 ---
 
-# **Terms of Use**
+# Terms of Use**
 
 **Last Updated:** June 1, 2024
 

@@ -1,5 +1,5 @@
 #page title
-page_title                                : Composer AI                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : SongMaker AI                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # Language settings
 languages: ["en", "ja"]
