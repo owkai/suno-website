@@ -37,8 +37,7 @@ All intellectual property rights in the App itself, including its software, desi
 
 
 
-
-## **6. Prohibited Conduct**
+## **5. Prohibited Conduct**
 
 You agree not to:
 - Violate any laws or third-party rights using the App
@@ -48,7 +47,7 @@ You agree not to:
 
 
 
-## **7. Subscriptions and In-App Purchases**
+## **6. Subscriptions and In-App Purchases**
 
 The App offers optional paid features through:
 - Weekly and annual auto-renewing subscriptions
@@ -64,7 +63,7 @@ Deleting the App does not cancel your subscription, but cancellation is still po
 Subscription remains active until the end of the current billing cycle even after cancellation. All purchases are final and non-refundable unless required by law or Apple policy. For help, please visit [Apple Support](https://support.apple.com/en-us/HT202039).
 
 
-## **9. Disclaimer of Warranties**
+## **7. Disclaimer of Warranties**
 The App and any content it generates are provided “AS IS” and “AS AVAILABLE,” without warranties of any kind, express or implied.
 
 We do not guarantee:
@@ -75,24 +74,24 @@ We do not guarantee:
 You use the App at your own risk.
 
 
-## **10. Limitation of Liability**
+## **8. Limitation of Liability**
 To the maximum extent permitted by law, we shall not be liable for:
 - Indirect, incidental, or consequential damages
 - Loss of profits, data, or content
 - Any claims related to your use of or reliance on AI-generated outputs
 
-## **11. Changes and Termination**
+## **9. Changes and Termination**
 We may modify or discontinue the App or its features at any time without prior notice. We may also suspend or terminate your access for any reason, including violation of these Terms.
 
 
-## **12. Apple App Store Terms**
+## **10. Apple App Store Terms**
 You acknowledge that this agreement is between you and us, not Apple. Apple has no responsibility for the App or its content. Apple is a third-party beneficiary of these Terms.
 
 
-## **13. Governing Law**
+## **11. Governing Law**
 These Terms are governed by the laws of the State of California (or other applicable US jurisdiction if required for Apple App Store compliance). Any disputes shall be subject to the exclusive jurisdiction of courts located in that region.
 
 
-## **14. Contact Us**
+## **12. Contact Us**
 If you have any questions, contact us at:
-**Email**: support@5starland.com
+**Email**: contact@5starland.com
